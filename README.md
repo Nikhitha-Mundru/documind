@@ -26,3 +26,7 @@ python src/index.py
 python -m streamlit run app/app.py
 
 Set GEMINI_API_KEY in your environment first.
+<img width="1067" height="902" alt="documind streamlit" src="https://github.com/user-attachments/assets/7653737c-ebb2-4e3e-b069-43e2ddf35122" />
+
+
+
