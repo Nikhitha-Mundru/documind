@@ -10,9 +10,9 @@ Ask natural-language questions about scanned and photographed documents and get 
 5. Demo: Streamlit app
 
 ## Results
-- Documents indexed: X
+- Documents indexed: 18
 - Retrieval hit rate @3: 90% (27/30 test questions)
-- Average response time: X s (5 queries)
+- Average response time: 9.3 s (5 queries)
 
 ## Known limitations
 - OCR struggles with stylized fonts (for example poster titles), so text in those regions can be lost.
