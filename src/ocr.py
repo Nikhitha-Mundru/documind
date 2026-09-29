@@ -16,6 +16,8 @@ for f in sorted(RAW.iterdir()):
         print("Could not read", f.name)
         continue
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    text = pytesseract.image_to_string(gray)
+    gray = cv2.resize(gray, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+    text = pytesseract.image_to_string(gray, config="--psm 11")
+
     (OUT / (f.stem + ".txt")).write_text(text, encoding="utf-8")
     print(f.name, "->", len(text), "characters")

@@ -1,0 +1,73 @@
+Statement Criteria
+
+Account Title
+
+Al
+
+Ul
+
+Account Number
+
+205¢
+
+4
+
+From (August 01, 2018)
+
+To (January 15, 2019)
+
+Transactions Made
+
+[Details till Tuesday, Jai
+
+Sri No.
+
+Date
+
+Description
+
+Currency
+
+Debit
+
+Credit
+
+Balance Amount
+
+Saturday, August 04,
+
+INR
+
+17.70
+
+2018 4:10 AM
+
+SMSChargesQtrJAN18-MAR18+GS
+
+1,569.60
+
+Thursday, August 09,
+
+‘ Int:01-05-2018/31-07-2018
+
+INR
+
+14.00
+
+1,583.60
+
+2018 5:31 AM
+
+Thursday, November
+
+Int:31-10-2018/01-08-2018
+
+INR
+
+14.00
+
+1,597.60
+
+08, 2018 11:14AM
+
+Save As PDF

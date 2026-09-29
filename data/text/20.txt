@@ -1,0 +1,465 @@
+ome
+
+TemplateLAB
+
+One of the Global One money management products or services
+
+CAPITEC
+
+Savings Account Statement
+
+q
+
+BANK
+
+Tax Invoice
+
+Capitec Bank
+
+VAT Registration Number
+
+4680173723
+
+30/09/2018
+
+Capitec Bank Limited
+
+Branch: 470010
+
+08/12/2018
+
+1 Quantum Street
+
+Device: 9003
+
+From Date:
+
+To Date:
+
+07/01/2019
+
+Stellenbosch
+
+7600
+
+Print Date:
+
+07/01/2019
+
+Personal Details
+
+Miss Itumeleny Moshayi
+
+Account Number
+
+1262299940
+
+1 STUART PLACE
+
+NORTHCLIFF EXT1
+
+JOHANNESBURG
+
+2195
+
+Transaction
+
+Posting Date
+
+Date
+
+Description
+
+Money In (R) Money Out (R)
+
+Balance (R)
+
+31/08/2018
+
+19/08/2018
+
+100.00
+
+132.27
+
+Correction: Cash Withdrawal Cpc
+
+31/08/2018
+
+19/08/2018
+
+Correction: ATM Cash Withdrawal Fee
+
+656
+
+138.83
+
+31/08/2018
+
+31/08/2018
+
+Banking App Payment Received A Pieterse
+
+1000.00
+
+1138.83
+
+31/08/2018
+
+31/08/2018
+
+Banking App Payment Luno
+
+100.00
+
+1038.83
+
+31/08/2018
+
+31/08/2018
+
+Banking App Payment Fee
+
+1.60
+
+103723
+
+31/08/2018
+
+1031.68
+
+31/08/2018
+
+ATM Balance Enquiry Fee
+
+5.55
+
+31/08/2018
+
+31/08/2018
+
+ATM Cash Withdrawal Spar Panorama (Card
+
+1000.00
+
+31.68
+
+1551)
+
+31/08/2018
+
+31/08/2018
+
+Cash Withdrawal Fee (ATM)
+
+883
+
+22.85
+
+31/08/2018
+
+31/08/2018
+
+Interest Received
+
+149
+
+24.34
+
+31/08/2018
+
+31/08/2018
+
+SMS Notification Fee
+
+0.80
+
+23.54
+
+31/08/2018
+
+31/08/2018
+
+Monthly Account Admin Fee
+
+5.80
+
+17.74
+
+01/09/2018
+
+01/09/2018
+
+Banking App Payment Received A Pieterse
+
+200.00
+
+217.74
+
+01/09/2018
+
+01/09/2018
+
+ATM Cash Withdrawal Spar Panorama (Card
+
+190.00
+
+27.74
+
+1551)
+
+01/09/2018
+
+01/09/2018
+
+Cash Withdrawal Fee (ATM)
+
+883
+
+18.91
+
+01/09/2018
+
+01/09/2018
+
+Banking App Payment Received A Pieterse
+
+200.00
+
+218.91
+
+01/09/2018
+
+01/09/2018
+
+Banking App Payment Received A Pieterse
+
+1000.00
+
+1218.91
+
+01/09/2018
+
+01/09/2018
+
+Purchase & Cash: Model Melkwinkel N 16227
+
+1031.70
+
+187.21
+
+Brits (Card 1551)
+
+01/09/2018
+
+01/09/2018
+
+Till Cash Withdrawal Fee
+
+1.61
+
+185.60
+
+01/09/2018
+
+01/09/2018
+
+Banking App Payment Received A Pieterse
+
+400.00
+
+585.60
+
+01/09/2018
+
+01/09/2018
+
+100.00
+
+685.60
+
+Banking App Payment Received A Pieterse
+
+01/09/2018
+
+01/09/2018
+
+ATM Balance Enquiry Fee
+
+5.55
+
+680.05
+
+01/09/2018
+
+01/09/2018
+
+ATM Cash Withdrawal Spar Panorama (Card
+
+600.00
+
+80.05
+
+1551)
+
+01/09/2018
+
+01/09/2018
+
+Cash Withdrawal Fee (ATM)
+
+883
+
+71.22
+
+01/09/2018
+
+01/09/2018
+
+SMS Notification Fee
+
+2.80
+
+68.42
+
+02/09/2018
+
+02/09/2018
+
+Banking App Payment Received A Pieterse
+
+1600.00
+
+1668.42
+
+02/09/2018
+
+02/09/2018
+
+ATM Balance Enquiry Fee
+
+5.55
+
+1662.87
+
+02/09/2018
+
+02/09/2018
+
+ATM Cash Withdrawal Absa Magalies Centre
+
+1350.00
+
+312.87
+
+(Card 1551)
+
+02/09/2018
+
+02/09/2018
+
+Cash Withdrawal Fee (ATM)
+
+883
+
+304.04
+
+02/09/2018
+
+02/09/2018
+
+SMS Notification Fee
+
+1.20
+
+302 84
+
+03/09/2018
+
+01/09/2018
+
+Lulu’s Liquors Brits (Card 1551)
+
+50.00
+
+252 84
+
+04/09/2018
+
+04/09/2018
+
+150.00
+
+402.84
+
+Banking App Payment Received J Bronn
+
+04/09/2018
+
+04/09/2018
+
+ATM Cash Withdrawal Absa Panorama Centre
+
+140.00
+
+262.84
+
+(Card 1551)
+
+04/09/2018
+
+04/09/2018
+
+Cash Withdrawal Fee (ATM)
+
+8.83
+
+254.01
+
+04/09/2018
+
+04/09/2018
+
+SMS Notification Fee
+
+0.40
+
+253.61
+
+05/09/2018
+
+02/09/2018
+
+230.00
+
+23.61
+
+Oklahoma Supermar Brits (Card 1551)
+
+05/09/2018
+
+05/09/2018
+
+Payment Received: Absa Bank Deon Transter
+
+500.00
+
+523.61
+
+1319444263
+
+05/09/2018
+
+05/09/2018
+
+Banking App Prepaid Purchase MTN
+
+70.00
+
+453.61
+
+Capitec Bank is an authorised financial services (FSP46669) and registered credit provider (NCRCP 13). Capitec Bank Limited Reg. No.: 1980/003695/
+
+Unique Document No: 2c05a 1ce-6b84-4 7e9-9863- 1fde 19b 1eaBe / 204 / V6.0 - 01/04/2018 (ddmmecyy)
+
+Page 1081

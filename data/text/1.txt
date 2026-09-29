@@ -1,0 +1,107 @@
+, BANK
+
+STATEMENT BETWEEN 01/04/2019 AND 30/04/2019 FOR A/C: 918020087855304
+
+(589 )
+
+SCHEME CODE
+
+CA- LARGE RETAILERS AND
+
+MS. INNOVACION AIR CONDITIONING
+
+DISTRIBUTORS
+
+KH. NO 27/3 B- 93 UDAY VIHAR
+
+CUSTOMER ID
+
+885841530
+
+NILOTHI EXTN., WEST DELHI DELHI
+
+CURRENCY CODE
+
+INR
+
+POOJA DAIRY
+
+UEN AMOUNT
+
+0.00
+
+DELHI , DELHI
+
+INDIA
+
+NOMINATION DETAILS
+
+NOMINATION REGISTERED
+
+PIN
+
+110041
+
+| Tran Date | Value Date [Transaction Details
+
+[Chq. No.|Amount (In Rs.)[Dr/Cr| Balance (In Rs.) |_Branch Name _|
+
+P| dovenncaniance:
+
+|
+
+| 1004/2019 |
+
+19
+
+ee aE a ET) A ETE TES
+
+19
+
+ee ee)
+
+19 fronsoldaies Charges for A’c
+
+ee
+
+Lirocaore_[-rravar_|esansor ceseresarorsse—— || ras |e] reer
+
+fen
+
+Prosra | avs jresomencsr cpwetost |} xt [re rar
+
+praia nen voxweTUPOSs a Tenenes Ts ———| ——| "treo | rear] Tove aca]
+
+RTGSIICICHTO1 155071
+
+36/SUZUKI MOTO
+
+| __ser700.00| | __sese8a.01|  BANGAIPE] _|
+
+ZHOEZOTS
+
+Saas MB/AXMB191 190753962/chotte
+
+as
+
+zaaw018 2 SS SSS
+
+tol —o:| ——tosrsor| —BeAWANPATH
+
+9000.00] orf _130373.91| TILAK NAGAR _|
+
+AGAR
+
+T3704
+
+TRANSACTION TOTAL DRICR
+
+304647.00
+
+CLOSING BALANCE
+
+372700.00
+
+115368.01
+
+Page 1 of 2

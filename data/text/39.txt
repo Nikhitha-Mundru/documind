@@ -1,0 +1,175 @@
+CREATED BY
+
+TemplateLAB
+
+231 Valley Farms Street
+
+Santa Monica, CA
+
+SSBNI
+
+bnibank @domain.com
+
+Statement of Account
+
+Personal Current Account
+
+BRANCH NAME
+
+CUSTOMER NAME
+
+John Smith
+
+<Branch Name>
+
+ADDRESS
+
+CARD NUMBER
+
+2450 Courage St, STE 108
+
+2947-96574-254 1 -4004
+
+Brownsville, TX 78521
+
+ACCOUNT NUMBER
+
+1234567890
+
+OPENING BALANCE
+
+TOTAL CREDIT
+
+TOTAL DEBIT
+
+CLOSING BALANCE
+
+PERIOD
+
+PAGE
+
+1 of 1
+
+10,895.92
+
+22,032.72
+
+1,249.95
+
+31,678.69
+
+mm/dd/yyyy
+
+Date
+
+Reference
+
+Transaction Description
+
+Credit
+
+Debit
+
+Balance
+
+mm/dd/yyyy
+
+0302432
+
+Account Interest
+
+19.95
+
+10,875.97
+
+mm/dd/yyyy
+
+0302433
+
+Branch Deposit
+
+20,000.00
+
+30,875.97
+
+mm/dd/yyyy
+
+0302434
+
+Branch Deposit
+
+600.00
+
+30,275.97
+
+0302435
+
+630.00
+
+mm/dd/yyyy
+
+Branch Deposit
+
+29,645.97
+
+mm/dd/yyyy
+
+0302436
+
+Branch Cheque - MC Kean & Park
+
+1,430.00
+
+31,075.97
+
+mm/dd/yyyy
+
+0302437
+
+Cost of Bank Cheque
+
+100.00
+
+31,175.97
+
+mm/dd/yyyy
+
+0302438
+
+Branch Deposit
+
+500.00
+
+31,675.97
+
+0302439
+
+FED Bank Account Debits Tax
+
+1.05
+
+mm/dd/yyyy
+
+31,677.02
+
+mm/dd/yyyy
+
+0302440
+
+VIC FID Charge
+
+1.67
+
+31,678.69
+
+Total
+
+22,032.72
+
+1,249.95
+
+31,678.69
+
+Note:
+
+© templatelab.com

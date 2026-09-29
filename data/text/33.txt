@@ -1,0 +1,65 @@
+Account Number
+
+SUNIL VERMA-30000 100003115 w
+
+“Account Query
+
+*
+
+‘Show Detais
+
+‘J
+
+Account Number Account Name
+
+From:
+
+To:
+
+30000100003115
+
+SUNIL VERMA
+
+16/10/15 17/10/15
+
+Transactions (1-4 of 4)
+
+Sr.
+
+Cheque
+
+No.
+
+Date Description(Remark)
+
+No.
+
+Amount
+
+I7AMOMS
+
+1
+
+PGOR/Paytm.com17-10-2015 13:23:44/SWT
+
+450.00
+
+16/10/15
+
+PGDR/ONES7 COMMUNICATIONS L/16-10-2015
+
+974.00
+
+19:16:22/S
+
+16/10/15
+
+1,148.00
+
+PGDR/Paytm.comv16-10-2015 19:12:24/SWT
+
+I7AOMS
+
+BY CASH
+
+‘Select Format-
